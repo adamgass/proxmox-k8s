@@ -1,0 +1,5 @@
+*.pyc
+venv/
+.env
+var.py
+Pulumi.rke2.yaml
